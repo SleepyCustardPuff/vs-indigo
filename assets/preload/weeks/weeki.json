@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Test",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"test",
+		"bf",
+		""
+	],
+	"storyName": "Funni Purple Demon",
+	"weekName": "Week I",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
