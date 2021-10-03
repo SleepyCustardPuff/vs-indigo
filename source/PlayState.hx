@@ -369,7 +369,7 @@ class PlayState extends MusicBeatState
 				}
 				
 			case 'indigosstage': //Week I
-				var indigosstage:BGSprite = new BGSprite('indigosstage', -600, -200, 0.9, 0.9);
+				var indigosstage:BGSprite = new BGSprite('indigosstage', -600, -300, 0.9, 0.9);
 				add(indigosstage);
 			
 			case 'spooky': //Week 2
