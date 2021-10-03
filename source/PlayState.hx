@@ -4432,7 +4432,7 @@ class PlayState extends MusicBeatState
 			{
 				switch (arrayIDs[i])
 				{
-					case 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9:
+					case 1 | 2 | 3 | 4 | 5 | 6 | 7:
 						if (isStoryMode
 							&& campaignMisses + songMisses < 1
 							&& CoolUtil.difficultyString() == 'HARD'
