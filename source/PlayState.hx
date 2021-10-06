@@ -330,7 +330,7 @@ class PlayState extends MusicBeatState
 					curStage = 'school';
 				case 'thorns':
 					curStage = 'schoolEvil';
-				case 'test':
+				case 'erase' | 'forget' | 'remember':
 					curStage = 'indigosstage';
 				default:
 					curStage = 'stage';
@@ -381,7 +381,7 @@ class PlayState extends MusicBeatState
 				}
 
 			case 'indigosstage': // Week I
-				var indigosstage:BGSprite = new BGSprite('indigosstage', -600, -200, 0.9, 0.9);
+			var indigosstage:BGSprite = new BGSprite('indigosstage', -600, -400, 0.9, 0.9);
 				add(indigosstage);
 
 			case 'spooky': // Week 2
@@ -1057,6 +1057,8 @@ class PlayState extends MusicBeatState
 						FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 
+				case 'erase':
+					startDialogue(dialogueJson);
 				default:
 					startCountdown();
 			}
