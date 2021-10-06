@@ -1057,6 +1057,8 @@ class PlayState extends MusicBeatState
 						FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 
+				case 'erase':
+					startDialogue(dialogueJson);
 				default:
 					startCountdown();
 			}

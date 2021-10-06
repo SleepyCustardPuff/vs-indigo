@@ -86,7 +86,7 @@
 						10628.5714285714,
 						-1,
 						"Hey!",
-						"2",
+						"1",
 						""
 					]
 				],
@@ -151,6 +151,48 @@
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20571.4285714286,
+						-1,
+						"Hey!",
+						"1",
+						""
+					],
+					[
+						21257.1428571429,
+						-1,
+						"Hey!",
+						"1",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -692,6 +734,6 @@
 		"bpm": 175,
 		"arrowSkin": null,
 		"needsVoices": true,
-		"song": "Test"
+		"song": "Erase"
 	}
 }
