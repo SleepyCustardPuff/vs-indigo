@@ -875,7 +875,7 @@
 					],
 					[
 						33600,
-						7,
+						7
 					]
 				],
 				"lengthInSteps": 16,
@@ -1067,7 +1067,7 @@
 				"sectionNotes": [
 					[
 						44800,
-						0,
+						0
           ],
 					[
 						37285.7142857143,
@@ -2965,7 +2965,7 @@
 				"bpm": 175
 			},
 			{
-				"lengthInSteps": 16,
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
