@@ -9,7 +9,6 @@
 	],
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
 	"weekCharacters": [
 		"test",
 		"bf",
@@ -17,14 +16,24 @@
 	],
 	"songs": [
 		[
-			"Erase",
+			"Forget",
 			"indigo",
 			[
 				86,
 				0,
 				195
 			]
+		],
+		[
+			"Erase",
+			"indigo",
+			[
+				146,
+				113,
+				253
+			]
 		]
 	],
+	"hideStoryMode": false,
 	"weekName": "Week I"
 }
