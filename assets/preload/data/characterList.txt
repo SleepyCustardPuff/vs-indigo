@@ -19,5 +19,3 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
-indigo-player
-indigo
